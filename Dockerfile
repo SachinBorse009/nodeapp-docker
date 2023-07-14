@@ -1,6 +1,6 @@
 FROM node:18
 
-WORKDIR /home/vagrant/nodeapp
+WORKDIR /home/ubuntu/nodeapp
 
 COPY package*.json ./
 
